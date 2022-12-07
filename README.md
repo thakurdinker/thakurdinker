@@ -1,5 +1,5 @@
 # 💫 About Me:
-FrontEnd Web Developer
+Full Stack Web Developer
 
 
 ## 🌐 Socials:
